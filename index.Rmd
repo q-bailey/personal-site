@@ -1,0 +1,175 @@
+---
+title: 'Bailey Whitbread'
+output:
+  html_document:
+    theme: simplex
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+Test
+
+### About
+
+I am an Australian postgraduate student in mathematics. My [CV](files/CV.pdf) (Feb 2023). 
+
+![](files/me.png){width="50%"}\
+([Heron Island](https://www.heronisland.com), 2021)
+
+### Contact
+
+Address: [School of Mathematics and Physics](https://smp.uq.edu.au/),\
+[The University of Queensland](https://www.uq.edu.au/),\
+[St Lucia, QLD, 4072,
+Australia](https://en.wikipedia.org/wiki/St_Lucia,_Queensland).\
+Office: Building 69 Room 714.\
+Email:
+
+![](files/email.png){width="50%"}
+
+### Maths
+
+My advisors are [Masoud
+Kamgarpour](https://sites.google.com/site/masoudkomi/home) and [Ole
+Warnaar](https://people.smp.uq.edu.au/OleWarnaar/). Other mentors
+include [Anna Puskás](https://people.smp.uq.edu.au/AnnaPuskas/) and
+[Ramiro Lafuente](https://sites.google.com/view/ramlaf/home).
+
+-   My MPhil project is about [Counting Points on Representation
+Varieties](files/confirmation_report.pdf).
+-   My undergraduate thesis was about [Hecke Algebras and Gelfand Pairs in
+Representation Theory](files/honours_thesis.pdf).
+
+
+
+
+### Service and Work
+-   Co-organiser for the UQ SMP Graduate Student Seminar (2023).
+-   Co-organiser for a [lecture series on the Weil conjectures](https://sites.google.com/view/weiltoomuchfun/) (2023). 
+    -   Notes are [here](https://www.dropbox.com/s/7wrwzmgfq5jce2r/Weil%20Conjecture%20Notes.pdf).
+-   Marker for the [Simon Marais Mathematics
+    Competition](https://www.simonmarais.org) (2022).
+-   Marker for the [UQ/QAMT Problem Solving
+    Competition](https://qamt.qld.edu.au/problem-solving-competition/)
+    (2022).
+-   Marker of final exams for UQ (2021 - now).
+-   Question-drafter for the annual UQ SMP Maths Relay (2021 - now).
+-   Research assistant (drafting manuscripts for students) at UQ (2021).
+-   Tutor for the [UQ Queensland Mathematics Summer
+    School](https://smp.uq.edu.au/event/4364/queensland-mathematics-summer-school)
+    (2019).
+-   President and vice president of the [UQ Mathematics Students
+    Society](https://www.facebook.com/uqmss) (2017 - 2019).
+
+I have tutored at UQ for the following courses:
+
+-   2019:
+    [MATH1061](https://my.uq.edu.au/programs-courses/course.html?course_code=MATH1061),
+    [MATH1052](https://my.uq.edu.au/programs-courses/course.html?course_code=MATH1052),
+    [MATH1051](https://my.uq.edu.au/programs-courses/course.html?course_code=MATH1051).\
+-   2020:
+    [MATH2400](https://my.uq.edu.au/programs-courses/course.html?course_code=MATH2400),
+    [MATH1071](https://my.uq.edu.au/programs-courses/course.html?course_code=MATH1071),
+    [MATH1061](https://my.uq.edu.au/programs-courses/course.html?course_code=MATH1061),
+    [MATH1051](https://my.uq.edu.au/programs-courses/course.html?course_code=MATH1051).\
+-   2021:
+    [MATH3303](https://my.uq.edu.au/programs-courses/course.html?course_code=MATH3303),
+    [MATH2401](https://my.uq.edu.au/programs-courses/course.html?course_code=MATH2401),
+    [MATH2001](https://my.uq.edu.au/programs-courses/course.html?course_code=MATH2001),
+    [MATH1061](https://my.uq.edu.au/programs-courses/course.html?course_code=MATH1061),
+    [First Year Learning
+    Centre](https://smp.uq.edu.au/current-students/first-year-learning-centres).
+-   2022:
+    [MATH3303](https://my.uq.edu.au/programs-courses/course.html?course_code=MATH3303),
+    [MATH2401](https://my.uq.edu.au/programs-courses/course.html?course_code=MATH2401)
+    (lead tutor),
+    [MATH2301](https://my.uq.edu.au/programs-courses/course.html?course_code=MATH2301),
+    [MATH2001](https://my.uq.edu.au/programs-courses/course.html?course_code=MATH2001).
+-   2023:
+    [MATH3303](https://my.uq.edu.au/programs-courses/course.html?course_code=MATH3303), [MATH1061](https://my.uq.edu.au/programs-courses/course.html?course_code=MATH1061) (lead tutor and lecture assistant).
+
+### Talks
+
+-   [Counting Points on Representation Spaces](files/review2talk.pdf) (MPhil Review Talk, June 2023).
+-   [Counting Points on the Representation
+    Variety](files/austms_talk_2022.pdf) (AustMS Conference, Dec 2022).
+    -   An [alternate version](files/confirmation_slides.pdf) (MPhil
+        Confirmation, Feb 2023).
+-   [The Representation Variety and its
+    E-Polynomial](files/amsi_talk.pdf) (AMSI Winter School 3-minute
+    talk, Jun 2022).
+-   [Hecke Algebras and Gelfand Pairs in Representation
+    Theory](files/honours_talk.pdf) (Honours final talk, May 2021).
+-   [Characteristic Classes and Chern Classes](files/chern_classes.pdf)
+    (Coursework, Oct 2020).
+-   [The Twin Prime and Elliot--Halberstam
+    Conjectures](files/elliot_halberstam.pdf) (Coursework, Oct 2020).
+-   [Sieve Methods](files/sieve_methods.pdf) (Coursework, Aug 2020).
+-   [Kinky Sets](files/kinky_sets.pdf) (For
+    [MSS](https://www.facebook.com/uqmss), Mar 2021).
+-   [The Dirichlet Function](files/dirichlet.pdf) (For
+    [MSS](https://www.facebook.com/uqmss), Mar 2019).
+
+### Events
+
+You may have met me at the following events:
+
+-   [Differential Geometry Days @ UQ](https://sites.google.com/view/ramlaf/dg-days-uq) (Feb - Mar 2023).
+-   [AustMS 2022](https://conference.unsw.edu.au/en/austms2022) 66th
+    Annual Meeting of the [Australian Mathematical
+    Society](https://austms.org.au) (Dec 2022).
+-   [Number Theory Down Under 10](https://sites.google.com/view/ntdu10)
+    (Sep 2022).
+-   [AMSI Winter School 2022 - New Directions in Representation
+    Theory](https://ws.amsi.org.au) (Jun - Jul 2022).
+-   [ANU Character Varieties, E-Polynomials and Representation Zeta
+    Functions
+    Workshop](https://maths.anu.edu.au/news-events/events/character-varieties-e-polynomials-and-representation-zeta-functions)
+    (Feb 2022).
+-   [UQ Maths North Stradbroke Island Workshop on Character
+    Varieties](notes/character_varieties.pdf) (Dec 2021).
+-   [UQ Maths Heron Island Workshop on Geometry and Representation
+    Theory](https://sites.google.com/view/hiwgrt/home) (Jun - Jul 2021).
+-   UQ Maths North Stradbroke Island Workshop (Feb - Mar 2021).
+-   ['What is...?' (Wise)](https://sites.google.com/view/mathwise)
+    Seminar (2021 - 2022).
+-   [Simon Marais Mathematics Competition](https://www.simonmarais.org)
+    (2018 - 2019).
+
+### About Me
+-   I play Tetris.
+    -   [Me](https://ch.tetr.io/u/qbailey) on
+        [TETR.IO](https://tetr.io/).
+    -   Other Tetris versions that I play:
+        -   [NES Tetris](files/tetris.nes) (right-click -\> 'Save as...'
+            -\> tetris.nes, play this file with
+            [Mesen](https://www.mesen.ca/)),
+        -   [NullpoMino](https://github.com/nullpomino/nullpomino),
+        -   [Jstris](https://jstris.jezevec10.com/).
+    -   Some very bad scores:
+        -   TETR.IO, 40L race,
+            [1:00.197](https://tetr.io/#r:61b440fd551f6403891aab5c)
+            (2022).
+        -   TETR.IO, Blitz, [100,490](https://tetr.io/#R:ALZPXOJjc)
+            (2022).
+        -   NES Tetris, Level 1 Start, [467,809](files/nes.png) (2018).
+        -   NES Tetris, Level 18 Start, [430,193](files/nes18.png)
+            (2018).
+-   I've played [Geoguessr](https://www.geoguessr.com/).
+    -   10 seconds no moving, panning or zooming,
+        [20,802](https://www.geoguessr.com/results/VKSszaWqFh68td7r)
+        (2023).
+-   Member of [Urban Climb](https://www.urbanclimb.com.au/) (2021 -
+    now).
+-   Member of [SSAA](https://ssaa.org.au/) (2019 - now).
+    -   [Metallic Silhouette](https://www.ssaa.org.au/disciplines/all-disciplines/rifle-metallic-silhouette/) Cowboy Rifle Lever Action.
+        -   Centerfire Grade AA.
+        -   Rimfire Grade A.
+
+### Photos
+
+![](files/heron.png){width="100%"} 
+![](files/amsi.png){width="100%"}
+<!-- ![](files/repday.png){width="100%"}  -->
+<!-- ![](files/austms.jpg){width="100%"} -->
